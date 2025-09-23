@@ -10,7 +10,9 @@ This repository contains materials for creating a game:
 
 -----
 
-// TODO: добавить описание
+TODO: описание
+
+# Animated Objects
 
 <div align="center" width="100%">
     <img width="160px" src="/materials/arch-animated.gif" />
@@ -50,9 +52,3 @@ This repository contains materials for creating a game:
 
 
 
-# pixelart-game-assets-two
-# pixelart-game-assets-two
-# pixelart-game-assets-two
-# pixelart-game-assets-two
-# pixelart-game-assets-two
-# pixelart-game-assets-two
