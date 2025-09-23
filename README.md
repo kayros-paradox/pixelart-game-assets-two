@@ -17,9 +17,9 @@ TODO: описание
 <div align="center" width="100%">
     <img width="160px" src="/materials/arch-animated.gif" />
     <img width="160px" src="/materials/background-aquarium-animated.gif" />
+    <img width="160px" src="/materials/background-wooden-window-animated.gif" />
     <img width="160px" src="/materials/portrait-1-animated.gif" />
-    <img width="160px" src="/materials/chest-1-animated.gif" />
-    <img width="160px" src="/materials/chest-2-animated.gif" />
+    <img width="160px" src="/materials/clocks-1-animated.gif" />
 </div>
 <div align="center" width="100%">
     <img width="160px" src="/materials/door-1-animated.gif" />
@@ -43,13 +43,15 @@ TODO: описание
     <img width="160px" src="/materials/bottle-2-animated.gif" />
 </div>
 <div align="center" width="100%">
+    <img width="160px" src="/materials/chest-1-animated.gif" />
+    <img width="160px" src="/materials/chest-2-animated.gif" />
     <img width="160px" src="/materials/flowers-1-animated.gif" />
     <img width="160px" src="/materials/flowers-2-animated.gif" />
     <img width="160px" src="/materials/flowers-3-animated.gif" />
-    <img width="160px" src="/materials/flowers-4-animated.gif" />
-    <img width="160px" src="/materials/flowers-5-animated.gif" />
 </div>
 <div align="center" width="100%">
+    <img width="160px" src="/materials/flowers-4-animated.gif" />
+    <img width="160px" src="/materials/flowers-5-animated.gif" />
     <img width="160px" src="/materials/flowers-6-animated.gif" />
 </div>
 
