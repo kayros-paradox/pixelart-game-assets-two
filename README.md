@@ -59,7 +59,7 @@ TODO: описание
 
 # Animated Items
 
-<div align="center" width="100%">
+<div align="left" width="100%">
     <img width="16px" src="/materials/cup-1-animated.gif" />
 </div>
 
