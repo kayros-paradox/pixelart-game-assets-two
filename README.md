@@ -18,7 +18,13 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/bottle-2-animated.gif" />
     <img width="160px" src="/materials/chest-1-animated.gif" />
     <img width="160px" src="/materials/chest-2-animated.gif" />
-
+</div>
+<div align="center" width="100%">
+    <img width="160px" src="/materials/door-1-animated.gif" />
+    <img width="160px" src="/materials/door-2-animated.gif" />
+    <img width="160px" src="/materials/door-3-animated.gif" />
+    <img width="160px" src="/materials/lockers-1-animated.gif" />
+    <img width="160px" src="/materials/lockers-2-animated.gif" />
 </div>
 # pixelart-game-assets-two
 # pixelart-game-assets-two
