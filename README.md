@@ -61,3 +61,19 @@ TODO: описание
 
 # Animated Items
 
+# Static Objects
+
+<div align="center" width="100%">
+    <img width="80px" src="/materials/objects/table-1.png" />
+    <img width="80px" src="/materials/objects/table-2.png" />
+    <img width="80px" src="/materials/objects/table-3.png" />
+    <img width="80px" src="/materials/objects/table-4.png" />
+    <img width="80px" src="/materials/objects/table-5.png" />
+    <img width="80px" src="/materials/objects/table-6.png" />
+    <img width="80px" src="/materials/objects/table-7.png" />
+    <img width="80px" src="/materials/objects/table-8.png" />
+    <img width="80px" src="/materials/objects/table-9.png" />
+    <img width="80px" src="/materials/objects/table-10.png" />
+    <img width="80px" src="/materials/objects/table-11.png" />
+</div>
+

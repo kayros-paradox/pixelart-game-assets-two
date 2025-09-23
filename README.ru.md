@@ -8,7 +8,7 @@
 ## License
 
 <p>Copyright (c) 2022-2025</p>
-<p><b>«Unlimited free use»</b></p>
+<p><b>«Неограниченное бесплатное использование»</b></p>
 
 -----
 
