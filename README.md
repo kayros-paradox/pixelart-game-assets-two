@@ -63,7 +63,7 @@ TODO: описание
 
 # Static Objects
 
-<div align="center" width="100%">
+<div align="left" width="100%">
     <img width="80px" src="/materials/objects/table-1.png" />
     <img width="80px" src="/materials/objects/table-2.png" />
     <img width="80px" src="/materials/objects/table-3.png" />
