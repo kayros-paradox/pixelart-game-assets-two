@@ -53,8 +53,7 @@ TODO: описание
     <img width="160px" src="/materials/flowers-4-animated.gif" />
     <img width="160px" src="/materials/flowers-5-animated.gif" />
     <img width="160px" src="/materials/flowers-6-animated.gif" />
+    <img width="160px" src="/materials/printer-animated.gif" />
+    <img width="160px" src="/materials/bird-1-animated.gif" />
 </div>
-
-
-
 
