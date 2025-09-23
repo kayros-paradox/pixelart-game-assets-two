@@ -16,7 +16,7 @@ TODO: описание
 
 # Animated Objects
 
-<div align="center" width="100%">
+<div align="left" width="100%">
     <img width="160px" src="/materials/arch-animated.gif" />
     <img width="160px" src="/materials/background-aquarium-animated.gif" />
     <img width="160px" src="/materials/background-wooden-window-animated.gif" />
