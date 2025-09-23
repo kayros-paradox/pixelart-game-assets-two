@@ -2,6 +2,8 @@
 
 This repository contains materials for creating a game: 
 - sprites 💾
+- animations 📼
+- title map 🏙️
 
 ## License
 
@@ -58,9 +60,4 @@ TODO: описание
 </div>
 
 # Animated Items
-
-<div align="left" width="100%">
-    <img width="16px" src="/materials/cup-1-animated.gif" />
-</div>
-
 
