@@ -12,7 +12,7 @@ This repository contains materials for creating a game:
 
 -----
 
-TODO: описание
+// TODO: there is nothing here yet
 
 # Animated Objects
 
@@ -51,6 +51,8 @@ TODO: описание
 
 # Animated Items
 
+// TODO: there is nothing here yet
+
 # Static Objects
 
 <div align="left" width="100%">
@@ -84,4 +86,8 @@ TODO: описание
     <img width="80px" src="/materials/objects/ladder-3.png" />
     <img width="80px" src="/materials/objects/sit-1.png" />
 </div>
+
+# Static Items
+
+// TODO: there is nothing here yet
 
