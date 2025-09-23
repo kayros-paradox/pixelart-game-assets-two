@@ -13,7 +13,7 @@ This repository contains materials for creating a game:
 // TODO: добавить описание
 
 <div align="center" width="100%">
-    <img width="45%" src="/materials/arch-animated.gif" />
+    <img width="160px" src="/materials/arch-animated.gif" />
 </div>
 # pixelart-game-assets-two
 # pixelart-game-assets-two
