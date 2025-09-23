@@ -37,7 +37,7 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/washstand-2-animated.gif" />
     <img width="160px" src="/materials/shower-1-animated.gif" />
     <img width="160px" src="/materials/shower-2-animated.gif" />
-    <img width="160px" src="/materials/portait-animated.gif" />
+    <img width="160px" src="/materials/portait-1-animated.gif" />
     <img width="160px" src="/materials/flowers-1-animated.gif" />
 </div>
 <div align="center" width="100%">
