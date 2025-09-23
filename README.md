@@ -57,3 +57,10 @@ TODO: описание
     <img width="160px" src="/materials/bird-1-animated.gif" />
 </div>
 
+# Animated Items
+
+<div align="center" width="100%">
+    <img width="160px" src="/materials/cup-1-animated.gif" />
+</div>
+
+
