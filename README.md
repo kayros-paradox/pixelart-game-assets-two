@@ -65,5 +65,23 @@ TODO: описание
     <img width="80px" src="/materials/objects/table-9.png" />
     <img width="80px" src="/materials/objects/table-10.png" />
     <img width="80px" src="/materials/objects/table-11.png" />
+    <img width="80px" src="/materials/objects/bookcase-1.png" />
+    <img width="80px" src="/materials/objects/bookcase-2.png" />
+    <img width="80px" src="/materials/objects/bookcase-3.png" />
+    <img width="80px" src="/materials/objects/bookcase-4.png" />
+    <img width="80px" src="/materials/objects/bookcase-5.png" />
+    <img width="80px" src="/materials/objects/bench-1.png" />
+    <img width="80px" src="/materials/objects/bookshelves-1.png" />
+    <img width="80px" src="/materials/objects/bookshelves-2.png" />
+    <img width="80px" src="/materials/objects/bookshelves-3.png" />
+    <img width="80px" src="/materials/objects/bookshelf-1.png" />
+    <img width="80px" src="/materials/objects/bottle-rack-1.png" />
+    <img width="80px" src="/materials/objects/chair-1.png" />
+    <img width="80px" src="/materials/objects/chair-2.png" />
+    <img width="80px" src="/materials/objects/chair-3.png" />
+    <img width="80px" src="/materials/objects/ladder-1.png" />
+    <img width="80px" src="/materials/objects/ladder-2.png" />
+    <img width="80px" src="/materials/objects/ladder-3.png" />
+    <img width="80px" src="/materials/objects/sit-1.png" />
 </div>
 
