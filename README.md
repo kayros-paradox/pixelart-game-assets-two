@@ -47,6 +47,7 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/flowers-6-animated.gif" />
     <img width="160px" src="/materials/printer-animated.gif" />
     <img width="160px" src="/materials/bird-1-animated.gif" />
+    <img width="160px" src="/materials/partition-animated.gif" />
 </div>
 
 # Animated Items
@@ -85,6 +86,9 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/ladder-2.png" />
     <img width="80px" src="/materials/objects/ladder-3.png" />
     <img width="80px" src="/materials/objects/sit-1.png" />
+    <img width="80px" src="/materials/objects/bed.png" />
+    <img width="80px" src="/materials/objects/table-with-books.png" />
+    <img width="80px" src="/materials/objects/bottom-table.png" />
 </div>
 
 # Static Items
