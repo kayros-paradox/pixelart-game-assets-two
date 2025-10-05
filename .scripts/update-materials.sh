@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
+git add materials/.
 git commit -m "add new materials"
 git push origin
 
