@@ -90,6 +90,7 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/bed.png" />
     <img width="80px" src="/materials/objects/bottom-table.png" />
     <img width="80px" src="/materials/objects/something-wood.png" />
+    <img width="80px" src="/materials/objects/picture-1.png" />
 </div>
 
 # Static Items
