@@ -87,6 +87,7 @@
     <img width="80px" src="/materials/objects/sit-1.png" />
     <img width="80px" src="/materials/objects/table-with-books.png" />
     <img width="80px" src="/materials/objects/bed.png" />
+    <img width="80px" src="/materials/objects/bottom-table.png" />
     <img width="80px" src="/materials/objects/something-wood.png" />
 </div>
 
