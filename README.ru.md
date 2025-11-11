@@ -78,6 +78,9 @@
     <img width="80px" src="/materials/objects/bookshelves-2.png" />
     <img width="80px" src="/materials/objects/bookshelves-3.png" />
     <img width="80px" src="/materials/objects/bookshelf-1.png" />
+    <img width="80px" src="/materials/objects/bookshelf-2.png" />
+    <img width="80px" src="/materials/objects/bookshelf-3.png" />
+    <img width="80px" src="/materials/objects/bookshelf-4.png" />
     <img width="80px" src="/materials/objects/bottle-rack-1.png" />
     <img width="80px" src="/materials/objects/chair-1.png" />
     <img width="80px" src="/materials/objects/chair-2.png" />
