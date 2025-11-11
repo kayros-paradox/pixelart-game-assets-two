@@ -94,6 +94,8 @@
     <img width="80px" src="/materials/objects/bottom-table.png" />
     <img width="80px" src="/materials/objects/something-wood.png" />
     <img width="80px" src="/materials/objects/picture-1.png" />
+    <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
+    <img width="80px" src="/materials/objects/vending-machine-food.png" />
 </div>
 
 # Статичные предметы
