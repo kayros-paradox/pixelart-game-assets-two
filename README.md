@@ -76,6 +76,8 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/bookcase-3.png" />
     <img width="80px" src="/materials/objects/bookcase-4.png" />
     <img width="80px" src="/materials/objects/bookcase-5.png" />
+    <img width="80px" src="/materials/objects/bookcase-6.png" />
+    <img width="80px" src="/materials/objects/bookcase-7.png" />
     <img width="80px" src="/materials/objects/bench-1.png" />
     <img width="80px" src="/materials/objects/bookshelves-1.png" />
     <img width="80px" src="/materials/objects/bookshelves-2.png" />
