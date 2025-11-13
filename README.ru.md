@@ -47,8 +47,8 @@
     <img width="160px" src="/materials/flowers-6-animated.gif" />
     <img width="160px" src="/materials/printer-animated.gif" />
     <img width="160px" src="/materials/bird-1-animated.gif" />
-    <img width="160px" src="/materials/vending-machine-drinks.gif" />
-    <img width="160px" src="/materials/vending-machine-food.gif" />
+    <img width="160px" src="/materials/vending-machine-drinks-animated.gif" />
+    <img width="160px" src="/materials/vending-machine-food-animated.gif" />
 </div>
 
 # Aнимированные предметы
