@@ -78,10 +78,18 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/bookcase-5.png" />
     <img width="80px" src="/materials/objects/bookcase-6.png" />
     <img width="80px" src="/materials/objects/bookcase-7.png" />
+    <img width="80px" src="/materials/objects/bookcase-8.png" />
+    <img width="80px" src="/materials/objects/bookcase-9.png" />
+    <img width="80px" src="/materials/objects/bookcase-10.png" />
+    <img width="80px" src="/materials/objects/bookcase-11.png" />
+    <img width="80px" src="/materials/objects/bookcase-12.png" />
     <img width="80px" src="/materials/objects/bench-1.png" />
     <img width="80px" src="/materials/objects/bookshelves-1.png" />
     <img width="80px" src="/materials/objects/bookshelves-2.png" />
     <img width="80px" src="/materials/objects/bookshelves-3.png" />
+    <img width="80px" src="/materials/objects/bookshelves-4.png" />
+    <img width="80px" src="/materials/objects/bookshelves-5.png" />
+    <img width="80px" src="/materials/objects/bookshelves-6.png" />
     <img width="80px" src="/materials/objects/bookshelf-1.png" />
     <img width="80px" src="/materials/objects/bookshelf-2.png" />
     <img width="80px" src="/materials/objects/bookshelf-3.png" />
@@ -99,6 +107,7 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/bottom-table.png" />
     <img width="80px" src="/materials/objects/something-wood.png" />
     <img width="80px" src="/materials/objects/picture-1.png" />
+    <img width="80px" src="/materials/objects/picture-2.png" />
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
 </div>
