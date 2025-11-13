@@ -88,7 +88,6 @@
     <img width="80px" src="/materials/objects/bookshelves-3.png" />
     <img width="80px" src="/materials/objects/bookshelves-4.png" />
     <img width="80px" src="/materials/objects/bookshelves-5.png" />
-    <img width="80px" src="/materials/objects/bookshelves-6.png" />
     <img width="80px" src="/materials/objects/bookshelf-1.png" />
     <img width="80px" src="/materials/objects/bookshelf-2.png" />
     <img width="80px" src="/materials/objects/bookshelf-3.png" />
