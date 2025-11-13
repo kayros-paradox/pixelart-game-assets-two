@@ -48,6 +48,8 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/printer-animated.gif" />
     <img width="160px" src="/materials/bird-1-animated.gif" />
     <img width="160px" src="/materials/partition-animated.gif" />
+    <img width="160px" src="/materials/vending-machine-drinks.gif" />
+    <img width="160px" src="/materials/vending-machine-food.gif" />
 </div>
 
 # Animated Items
