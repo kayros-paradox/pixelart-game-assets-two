@@ -70,6 +70,8 @@
     <img width="80px" src="/materials/objects/table-10.png" />
     <img width="80px" src="/materials/objects/table-11.png" />
     <img width="80px" src="/materials/objects/table-12.png" />
+    <img width="80px" src="/materials/objects/table-13.png" />
+    <img width="80px" src="/materials/objects/table-14.png" />
     <img width="80px" src="/materials/objects/bookcase-1.png" />
     <img width="80px" src="/materials/objects/bookcase-2.png" />
     <img width="80px" src="/materials/objects/bookcase-3.png" />
