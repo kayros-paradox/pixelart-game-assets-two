@@ -51,6 +51,7 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/vending-machine-drinks-animated.gif" />
     <img width="160px" src="/materials/vending-machine-food-animated.gif" />
     <img width="160px" src="/materials/dancing-statue-animated.gif" />
+   <img width="160px" src="/materials/fountain-animated.gif" />
 </div>
 
 # Animated Items

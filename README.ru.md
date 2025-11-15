@@ -111,6 +111,7 @@
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
     <img width="80px" src="/materials/objects/statue-1.png" />
+    <img width="80px" src="/materials/objects/fountain-animated.png" />
 </div>
 
 # Статичные предметы
