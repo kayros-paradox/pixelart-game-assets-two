@@ -49,6 +49,7 @@
     <img width="160px" src="/materials/bird-1-animated.gif" />
     <img width="160px" src="/materials/vending-machine-drinks-animated.gif" />
     <img width="160px" src="/materials/vending-machine-food-animated.gif" />
+    <img width="160px" src="/materials/dancing-statue-animated.gif" />
 </div>
 
 # Aнимированные предметы
@@ -109,6 +110,7 @@
     <img width="80px" src="/materials/objects/picture-1.png" />
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
+    <img width="80px" src="/materials/objects/statue-1.png" />
 </div>
 
 # Статичные предметы

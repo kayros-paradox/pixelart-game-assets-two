@@ -50,6 +50,7 @@ This repository contains materials for creating a game:
     <img width="160px" src="/materials/partition-animated.gif" />
     <img width="160px" src="/materials/vending-machine-drinks-animated.gif" />
     <img width="160px" src="/materials/vending-machine-food-animated.gif" />
+    <img width="160px" src="/materials/dancing-statue-animated.gif" />
 </div>
 
 # Animated Items
@@ -111,6 +112,7 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/picture-2.png" />
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
+    <img width="80px" src="/materials/objects/statue-1.png" />
 </div>
 
 # Static Items
