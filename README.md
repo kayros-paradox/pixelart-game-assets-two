@@ -114,6 +114,9 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
     <img width="80px" src="/materials/objects/statue-1.png" />
+    <img width="80px" src="/materials/objects/plant-1.png" />
+    <img width="80px" src="/materials/objects/plant-2.png" />
+    <img width="80px" src="/materials/objects/plant-3.png" />
 </div>
 
 # Static Items
