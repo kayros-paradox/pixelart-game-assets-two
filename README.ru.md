@@ -20,6 +20,7 @@
     <img width="160px" src="/materials/arch-animated.gif" />
     <img width="160px" src="/materials/background-aquarium-animated.gif" />
     <img width="160px" src="/materials/background-wooden-window-animated.gif" />
+    <img width="160px" src="/materials/background-strange-wooden-window-animated.gif" />
     <img width="160px" src="/materials/portrait-1-animated.gif" />
     <img width="160px" src="/materials/clocks-1-animated.gif" />
     <img width="160px" src="/materials/door-1-animated.gif" />
@@ -50,6 +51,9 @@
     <img width="160px" src="/materials/vending-machine-drinks-animated.gif" />
     <img width="160px" src="/materials/vending-machine-food-animated.gif" />
     <img width="160px" src="/materials/dancing-statue-animated.gif" />
+    <img width="160px" src="/materials/gold-coin-animated.gif" />
+    <img width="160px" src="/materials/silver-coin-animated.gif" />
+    <img width="160px" src="/materials/shoe-cover-dispenser-animated.gif" />
 </div>
 
 # Aнимированные предметы
@@ -108,6 +112,8 @@
     <img width="80px" src="/materials/objects/bottom-table.png" />
     <img width="80px" src="/materials/objects/something-wood.png" />
     <img width="80px" src="/materials/objects/picture-1.png" />
+    <img width="80px" src="/materials/objects/picture-2.png" />
+    <img width="80px" src="/materials/objects/picture-3.png" />
     <img width="80px" src="/materials/objects/vending-machine-drinks.png" />
     <img width="80px" src="/materials/objects/vending-machine-food.png" />
     <img width="80px" src="/materials/objects/statue-1.png" />
@@ -115,6 +121,15 @@
     <img width="80px" src="/materials/objects/plant-1.png" />
     <img width="80px" src="/materials/objects/plant-2.png" />
     <img width="80px" src="/materials/objects/plant-3.png" />
+    <img width="80px" src="/materials/objects/can-1.png" />
+    <img width="80px" src="/materials/objects/can-2.png" />  
+    <img width="80px" src="/materials/objects/can-3.png" />
+    <img width="80px" src="/materials/objects/can-4.png" />
+    <img width="80px" src="/materials/objects/can-5.png" />
+    <img width="80px" src="/materials/objects/can-6.png" />
+    <img width="80px" src="/materials/objects/lamp-1.png" />
+    <img width="80px" src="/materials/objects/lamp-2.png" />
+    <img width="80px" src="/materials/objects/lamp-3.png" />
 </div>
 
 # Статичные предметы
