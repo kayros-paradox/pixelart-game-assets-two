@@ -134,6 +134,7 @@
     <img width="80px" src="/materials/objects/lamp-2.png" />
     <img width="80px" src="/materials/objects/lamp-3.png" />
     <img width="80px" src="/materials/objects/mirror.png" />
+    <img width="80px" src="/materials/objects/shelf.png" />
 </div>
 
 # Статичные предметы
