@@ -77,6 +77,7 @@
     <img width="80px" src="/materials/objects/table-12.png" />
     <img width="80px" src="/materials/objects/table-13.png" />
     <img width="80px" src="/materials/objects/table-14.png" />
+    <img width="80px" src="/materials/objects/table-15.png" />
     <img width="80px" src="/materials/objects/bookcase-1.png" />
     <img width="80px" src="/materials/objects/bookcase-2.png" />
     <img width="80px" src="/materials/objects/bookcase-3.png" />
@@ -107,6 +108,7 @@
     <img width="80px" src="/materials/objects/ladder-2.png" />
     <img width="80px" src="/materials/objects/ladder-3.png" />
     <img width="80px" src="/materials/objects/sit-1.png" />
+    <img width="80px" src="/materials/objects/sit-2.png" />
     <img width="80px" src="/materials/objects/table-with-books.png" />
     <img width="80px" src="/materials/objects/bed.png" />
     <img width="80px" src="/materials/objects/bottom-table.png" />
