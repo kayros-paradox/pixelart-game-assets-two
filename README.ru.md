@@ -123,6 +123,7 @@
     <img width="80px" src="/materials/objects/plant-1.png" />
     <img width="80px" src="/materials/objects/plant-2.png" />
     <img width="80px" src="/materials/objects/plant-3.png" />
+    <img width="80px" src="/materials/objects/plant-4.png" />
     <img width="80px" src="/materials/objects/can-1.png" />
     <img width="80px" src="/materials/objects/can-2.png" />  
     <img width="80px" src="/materials/objects/can-3.png" />
