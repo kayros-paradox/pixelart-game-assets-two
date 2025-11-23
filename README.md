@@ -133,6 +133,7 @@ This repository contains materials for creating a game:
     <img width="80px" src="/materials/objects/lamp-1.png" />
     <img width="80px" src="/materials/objects/lamp-2.png" />
     <img width="80px" src="/materials/objects/lamp-3.png" />
+    <img width="80px" src="/materials/objects/mirror.png" />
 </div>
 
 
